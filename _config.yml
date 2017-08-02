@@ -26,10 +26,6 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-plugins:
-sass:
-  - sass_dir: _sass
-  - style: compressed
 jekyll-auth:
   - ssl: true
 

@@ -5,6 +5,7 @@
 title: "Heaven itms vault"
 layout: app
 ---
+<img src="{{ site.baseurl }}/assets/img/explode.png" alt="booom" style="width:300px;height:300px;">
 <ul>
 {% for post in site.posts %}
   <li>

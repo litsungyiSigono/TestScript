@@ -16,5 +16,12 @@ title: Download
         <a class="pure-button-primary" href="itms-services://?action=download-manifest&url=https%3A%2F%2Flitsungyisigono.github.io%2FTestScript%2F201709210346.plist"><i class="fa fa-download" aria-hidden="true"></i>Install Heaven 201709210346</a>
       </div>
     </div>
+    <ul>
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
   </body>
 </html>

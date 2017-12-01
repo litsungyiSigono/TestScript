@@ -22,7 +22,7 @@
                 <key>bundle-identifier</key>
                 <string>Error:</string>
                 <key>bundle-version</key>
-                <string>path/not_found/...</string>
+                <string>path/not_found/..</string>
                 <key>title</key>
                 <string>Heaven</string>
             </dict>

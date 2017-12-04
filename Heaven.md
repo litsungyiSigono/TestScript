@@ -3,7 +3,7 @@ layout: app
 title: "Heaven"
 permalink: Heaven
 ---
-<img src="{{ site.baseurl }}/assets/img/explode.png" alt="booom" style="width:300px;height:300px;">
+<img src="{{ site.baseurl }}/assets/img/yeah.gif" alt="booom" style="width:300px;height:300px;">
 
 <h1>Heaven Builds</h1>
 <h2>Release</h2>

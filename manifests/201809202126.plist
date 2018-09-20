@@ -1,0 +1,32 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://www.dropbox.com/s/d77xaehklgp6jfj/Above_98_2018-09-20-21%3A26.ipa?raw=1</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>kind</key>
+                <string>software</string>
+                <key>bundle-identifier</key>
+                <string>com.sigono.above01</string>
+                <key>bundle-version</key>
+                <string>1.1.1</string>
+                <key>title</key>
+                <string>Above #98</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
